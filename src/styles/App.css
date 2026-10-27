@@ -1,1 +1,25 @@
 
+.main-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 12px;
+  text-decoration: none;
+  color: blue;
+}
+
+li {
+  margin: 10px 0;
+}
+
+li a {
+  color: #333;
+  text-decoration: none;
+}
+
